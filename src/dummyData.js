@@ -1,55 +1,55 @@
 export const Users = [
     {
         id: 1,
-        ProfilePicture: "Maighdiln",
-        Username: "mthorold0"
+        ProfilePicture: "assets/person/1.jpeg",
+        Username: "Mary John"
     },
     {
         id: 2,
-        ProfilePicture: "Lionel",
-        Username: "lgwatkins1"
+        ProfilePicture: "assets/person/3.jpeg",
+        Username: "lgwatkins Khalid"
     },
     {
         id: 3,
-        ProfilePicture: "Tybalt",
-        Username: "tlonghi2"
+        ProfilePicture: "assets/person/5.jpeg",
+        Username: "tlonghi2" 
     },
     {
         id: 4,
-        ProfilePicture: "Krystalle",
+        ProfilePicture: "assets/person/4.jpeg",
         Username: "kgossipin3"
     },
     {
         id: 5,
-        ProfilePicture: "Zilvia",
+        ProfilePicture: "assets/person/5.jpeg",
         Username: "zfronczak4"
-    },
+    }, 
     { 
         id: 6, 
-        ProfilePicture: "Dayna", 
+        ProfilePicture: "assets/person/6.jpeg", 
         Username: "dudey5" 
     },
     { 
 
         id: 7, 
-        ProfilePicture: "Adelind", 
+        ProfilePicture: "assets/person/7.jpeg", 
         Username: "agodlip6" 
     },
     { 
 
         id: 8, 
-        ProfilePicture: "Dionisio", 
+        ProfilePicture: "assets/person/8.jpeg", 
         Username: "dstayt7" 
     },
     { 
 
         id: 9, 
-        ProfilePicture: "Mahmoud", 
+        ProfilePicture: "assets/person/9.jpeg", 
         Username: "msibley8" 
     },
     { 
         id: 10, 
-        ProfilePicture: "Gothart", 
+        ProfilePicture: "assets/person/10.jpeg", 
         Username: "gfoxton9" 
     },
 ];
@@ -58,7 +58,7 @@ export const Users = [
 export const Posts = [
     {
         id: 1,
-        description: "Retrograde amnesia",
+        description: "Railway, For my first train home",
         Photo: "assets/post/1.jpeg",
         date: "1/27/2024",
         userid: 1,
